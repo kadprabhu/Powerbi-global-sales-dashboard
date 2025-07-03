@@ -12,7 +12,7 @@ This is an advanced Power BI dashboard project designed to analyze global sales 
 
 - `Global_Sales_Dashboard.pbix`: Power BI dashboard file
 - `PowerBI_Advanced_Project.xlsx`: Dataset (used to create model)
-- `screenshots/`: Visual previews of dashboard pages *(optional)*
+- `screenshots/`: Visual previews of dashboard pages 
 
 ## 🧰 Tools Used
 
